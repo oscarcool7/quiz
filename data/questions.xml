@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+	<question>
+		<text>What is Scotland's national animal?</text>
+		<variants>
+			<variant>Lion</variant>
+			<variant right="true">Unicorn</variant>
+			<variant>Eagle</variant>
+			<variant>Monkey</variant>
+		</variants>
+		<time_in_seconds>5</time_in_seconds>
+		<points>10</points>
+	</question>
+	<question>
+		<text>Which country produces the most coffee in the world?</text>
+		<variants>
+			<variant>Colombia</variant>
+			<variant right="true">Brazil</variant>
+			<variant>Kongo</variant>
+			<variant>Spain</variant>
+		</variants>
+		<time_in_seconds>10</time_in_seconds>
+		<points>2</points>
+	</question>
+	<question>
+		<text>What is the smallest planet in our Solar system?</text>
+		<variants>
+			<variant>Earth</variant>
+			<variant right="true">Mercury</variant>
+			<variant>Moon</variant>
+			<variant>Jupiter</variant>
+		</variants>
+		<time_in_seconds>15</time_in_seconds>
+		<points>3</points>
+	</question>
+	<question>
+		<text>What is the national flower of Japan?</text>
+		<variants>
+			<variant>Lily</variant>
+			<variant right="true">Sakura</variant>
+			<variant>Carnation</variant>
+			<variant>Chamomile</variant>
+		</variants>
+		<time_in_seconds>5</time_in_seconds>
+		<points>5</points>
+	</question>
+	<question>
+		<text>What was the original name of New York?</text>
+		<variants>
+			<variant>Ramapo</variant>
+			<variant right="true">New Amsterdam</variant>
+			<variant>New Brunswick</variant>
+			<variant>Flemington</variant>
+		</variants>
+		<time_in_seconds>10</time_in_seconds>
+		<points>20</points>
+	</question>
+	<question>
+		<text>What is the largest island in Russia?</text>
+		<variants>
+			<variant>Wrangel Island</variant>
+			<variant right="true">Sakhalin</variant>
+			<variant>New Siberia island</variant>
+			<variant>Bolshoy Begichev Island</variant>
+		</variants>
+		<time_in_seconds>25</time_in_seconds>
+		<points>1</points>
+	</question>
+</questions>
